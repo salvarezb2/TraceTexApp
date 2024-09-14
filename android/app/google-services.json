@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "490688155530",
+    "project_id": "tracetexapp",
+    "storage_bucket": "tracetexapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490688155530:android:6608ac1259b3c395490273",
+        "android_client_info": {
+          "package_name": "stephaniea.tracetexapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490688155530-ma2p8k60t14e455dibvse6jn4kqqc9qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stephaniea.tracetexapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "490688155530-82ikr0r0ocuof8be7759u3u94124c3hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZogn4Hu594b2hXURvFD3rHNwIt12huI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490688155530-82ikr0r0ocuof8be7759u3u94124c3hp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490688155530-433mh63oi2qottmcvdhbqng56n7tt5sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tracetext.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490688155530:android:e3d7122f06ff635b490273",
+        "android_client_info": {
+          "package_name": "tracetext.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490688155530-6l7618n7m2qu9nj0tp4iblgctu90h7eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tracetext.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "490688155530-82ikr0r0ocuof8be7759u3u94124c3hp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZogn4Hu594b2hXURvFD3rHNwIt12huI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490688155530-82ikr0r0ocuof8be7759u3u94124c3hp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "490688155530-433mh63oi2qottmcvdhbqng56n7tt5sk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "tracetext.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
